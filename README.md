@@ -1,16 +1,14 @@
-## Hi there 👋
+# p1930n
 
-<!--
-**p1930n/p1930n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+偶尔有时间写代码、修 bug、提 PR。
+一般情况下是玩游戏或者在干别的。
+GitHub 我主要用来放项目当作网盘存储的
 
-Here are some ideas to get you started:
+## 能做的
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python / JS / C++ / Luau
+
+## 联系方式
+
+- Email: p1930n_official@outlook.com
+- QQ: 3831290955
